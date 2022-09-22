@@ -12,7 +12,13 @@ class DataEngineer:
         self.language_spoken = ["es_LATAM", "en_US"]
     def introducing_me(self):
         print(
-              "Data science student and junior SQL and python developer, with knowledge in ETL development and data pipelines, orchestration and workflows, containerization, testing, version control, database management, big data, and experience as aviation quality and safety management data analyst in aircraft maintenance. Characterized by: discovering new ways to solve problems, quick adaptability, an understanding of the business context, clear expression of ideas through precise and brief stories, and passion for learning."
+              "Data science student and junior SQL and python developer, with knowledge in ETL"
+               "development and data pipelines, orchestration and workflows, containerization",
+               "testing, version control, database management, big data, and experience as aviation"
+               "quality and safety management data analyst in aircraft maintenance. Characterized by:"
+               "discovering new ways to solve problems, quick adaptability, an understanding of the"
+               "business context, clear expression of ideas through precise and brief stories, and"
+               "passion for learning."
               )
 me = DataEngineer()
 me.introducing_me()
