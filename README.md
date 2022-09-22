@@ -26,26 +26,20 @@ me.introducing_me()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=4D35B1)
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=4D35B1)
 
 ## 🗂️ My latest projects
 
-<a href="https://github.com/JoseSalas98/hadoop_docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=hadoop_docker&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="hadoop_docker" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=hadoop_docker&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/hadoop_docker)
 
-<a href="https://github.com/JoseSalas98/airflow_docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=airflow_docker&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="airflow_docker" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=airflow_docker&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/airflow_docker)
 
-<a href="https://github.com/JoseSalas98/alkemy_challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=alkemy_challenge&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="alkemy_challenge" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=alkemy_challenge&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/alkemy_challenge)
