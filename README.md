@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Banner](./css_estilos/banner.png)
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -38,8 +36,14 @@ me.introducing_me()
 
 ## 🗂️ My latest projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=hadoop_docker&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/hadoop_docker)
+<a href="https://github.com/JoseSalas98/hadoop_docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=hadoop_docker&theme=midnight-purple&show_icons=true&show_owner=true" alt="hadoop_docker" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=airflow_docker&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/airflow_docker)
+<a href="https://github.com/JoseSalas98/airflow_docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=airflow_docker&theme=midnight-purple&show_icons=true&show_owner=true" alt="airflow_docker" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=alkemy_challenge&theme=midnight-purple&show_icons=true&show_owner=true)](https://github.com/JoseSalas98/alkemy_challenge)
+<a href="https://github.com/JoseSalas98/alkemy_challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=alkemy_challenge&theme=midnight-purple&show_icons=true&show_owner=true" alt="alkemy_challenge" />
+</a>
