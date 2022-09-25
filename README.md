@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World 🤖
 
 ```python
 #!/usr/bin/python
@@ -34,7 +34,7 @@ me.introducing_me()
 ![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=4D35B1)
 ![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=4D35B1)
 
-## 🗂️ My latest projects
+## 🗂️ My Latest Projects
 
 <a href="https://github.com/JoseSalas98/hadoop_docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=hadoop_docker&theme=midnight-purple&show_icons=true&show_owner=true" alt="hadoop_docker" />
@@ -47,3 +47,8 @@ me.introducing_me()
 <a href="https://github.com/JoseSalas98/alkemy_challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseSalas98&repo=alkemy_challenge&theme=midnight-purple&show_icons=true&show_owner=true" alt="alkemy_challenge" />
 </a>
+
+## 📫 How to Reach Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-josesalasbolivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josesalasbolivar/)](https://www.linkedin.com/in/josesalasbolivar/)
+[![Gmail Badge](https://img.shields.io/badge/-josesalasbolivar98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalasbolivar98@gmail.com)](mailto:josesalasbolivar98@gmail.com)
